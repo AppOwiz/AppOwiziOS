@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E12AB133-EE1F-4887-804A-3A8BC722CFA2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6D20CF32FC3745AFB2852C9C635255A8229CA52F</key>
+		<string>http://git.webline.local/iOS/IPH_AppAssistSampleApp.git</string>
+		<key>BB43FCC70F387F6DC70D3D5E3C682F6654795916</key>
+		<string>http://192.168.101.225/iOS/IPH_AppAssist.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Develop/AA_HelloApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6D20CF32FC3745AFB2852C9C635255A8229CA52F</key>
+		<string>../../..</string>
+		<key>BB43FCC70F387F6DC70D3D5E3C682F6654795916</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://git.webline.local/iOS/IPH_AppAssistSampleApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6D20CF32FC3745AFB2852C9C635255A8229CA52F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB43FCC70F387F6DC70D3D5E3C682F6654795916</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6D20CF32FC3745AFB2852C9C635255A8229CA52F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AA_HelloApp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

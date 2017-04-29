@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6D20CF32FC3745AFB2852C9C635255A8229CA52F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BB43FCC70F387F6DC70D3D5E3C682F6654795916" : 0,
+    "6D20CF32FC3745AFB2852C9C635255A8229CA52F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E12AB133-EE1F-4887-804A-3A8BC722CFA2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BB43FCC70F387F6DC70D3D5E3C682F6654795916" : "",
+    "6D20CF32FC3745AFB2852C9C635255A8229CA52F" : "AA_HelloApp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AA_HelloApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Develop\/AA_HelloApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.webline.local\/iOS\/IPH_AppAssistSampleApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D20CF32FC3745AFB2852C9C635255A8229CA52F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.101.225\/iOS\/IPH_AppAssist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BB43FCC70F387F6DC70D3D5E3C682F6654795916"
+    }
+  ]
+}
